@@ -13,5 +13,5 @@ jobs:
     with:
       args: |
         dmenu.tera
-        dmenu-cli.tera
+        dmenu-scripts.tera
     secrets: inherit
